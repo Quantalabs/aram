@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "adafruit") (type "KiCad") (uri "${KIPRJMOD}/adafruit-Adafruit-Eagle-Library-4abf84c/adafruit.kicad_sym") (options "") (descr ""))
+)
